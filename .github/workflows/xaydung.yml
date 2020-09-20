@@ -10,7 +10,7 @@ env:
   BUILD_AB: true
   BUILD_Aonly: false
   ROM_AONLY: ROM_A.7z
-  ROM_AB: ROM_AB.7z
+  ROM_AB: ROMgsi_AB.7z
 
 jobs:
   build:
